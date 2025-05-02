@@ -848,8 +848,8 @@ navbarPage("Normality Assessment",
 
       # information about the app
       h4("About the App"),
-      p("This tool creates normal quantile-quantile (QQ) plots and histograms for
-        assessing normality. The methods implemented are based on recent
+      p("This tool creates normal quantile-quantile (QQ) plots and histograms
+        for assessing normality. The methods implemented are based on
         developments made in graphical inference (see below for more). In the
         app, the features in the 'Explore Simulated Data' tab enable the user to
         run the Rorschach procedure, and those in the 'Include Your Data' tab
@@ -881,10 +881,19 @@ navbarPage("Normality Assessment",
       h4("Contact"),
       p("Email: casementc@gmail.com"),
       br(),
+
+      # article info
+      h4("Information for Citing the App"),
+
+      p("Casement, C. J., & McSweeney, L. A. (2022). NormalityAssessment: An
+        Interactive Classroom Tool for Testing Normality Visually. Technology
+        Innovations in Statistics Education, 14(1).
+        https://doi.org/10.5070/T514156556"
+      ),
       br(),
 
       # copyright statement
-      p("Copyright \uA9 2019-2022 Christopher J. Casement and Laura A.
+      p("Copyright \uA9 2019-2025 by Christopher J. Casement and Laura A.
         McSweeney."
       ),
       p("The license statement can be found",

@@ -6,7 +6,7 @@ A graphical user interface for testing normality visually
 <!-- start badges -->
 <!-- start badges -->
 
-![](https://img.shields.io/badge/release-v0.0.2-blue?style=flat) [![CRAN
+![](https://img.shields.io/badge/release-v0.1.1-blue?style=flat) [![CRAN
 status](https://www.r-pkg.org/badges/version/NormalityAssessment)](https://CRAN.R-project.org/package=NormalityAssessment)
 <!-- end badges -->
 
@@ -15,12 +15,12 @@ status](https://www.r-pkg.org/badges/version/NormalityAssessment)](https://CRAN.
 The `NormalityAssessment` `R` package includes an interactive Shiny
 application, which is run locally on the user’s machine. It enables the
 creation of normal quantile-quantile (QQ) plots and histograms for
-assessing normality. The methods implemented are based on recent
-developments made in graphical inference. In the app, the features in
-the ‘Explore Simulated Data’ tab enable the user to run the Rorschach
-procedure, and those in the ‘Include Your Data’ tab allow the user to
-run the line-up procedure. Details on these two procedures can be found
-in the articles included in the References section below.
+assessing normality. The methods implemented are based on developments
+made in graphical inference. In the app, the features in the ‘Explore
+Simulated Data’ tab enable the user to run the Rorschach procedure, and
+those in the ‘Include Your Data’ tab allow the user to run the line-up
+procedure. Details on these two procedures can be found in the articles
+included in the References section below.
 
 ## Installation
 

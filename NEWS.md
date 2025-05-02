@@ -1,3 +1,7 @@
+# NormalityAssessment 0.1.1
+
+- Updated the citation information
+
 # NormalityAssessment 0.1.0
 
 - Added the option to work with built-in data sets of real data in the app's 
